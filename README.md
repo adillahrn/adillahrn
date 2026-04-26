@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Science Student @ IPB University <br/>
-  Interested in Web Development, UI/UX, and Technology
+  Interested in Web Development, UI/UX, and AI
 </p>
 
 <p align="center">
